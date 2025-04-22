@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Rai</h1>
 <h3 align="center">A passionate fullstack developer from India currently working as Senior software Engineer in Zycus Infotech Bengaluru.</h3>
 
-- 🔭 I’m currently working on **Food Order App**
+- 🔭 I’m currently working on **Food Ordering App**
 
 - 🌱 I’m currently learning **React**
 
