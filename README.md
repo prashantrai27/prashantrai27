@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Rai</h1>
-<h3 align="center">A passionate fullstack developer from India currently working as Senior software Engineer in Zycus Infotech Bengaluru.</h3>
+<h3 align="center">A passionate fullstack developer from India currently working as Senior Engineer in Deutsche Bank.</h3>
 
 - 🔭 I’m currently working on **Food Ordering App**
 
