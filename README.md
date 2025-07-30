@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Angular,Javascript and web development**
+- 💬 Ask me about **Angular, React, Javascript and web development**
 
 - 📫 How to reach me **prashantrai317@gmail.com**
 
